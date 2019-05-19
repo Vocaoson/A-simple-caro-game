@@ -1,2 +1,1 @@
-# CaoSon-VanDinh
-Đồ án cấu trúc dữ liệu và giải thuật
+A simple caro game.
